@@ -2,9 +2,9 @@
 
 | | |
 |---|---|
-| **Name** | _your full name_ |
-| **Nickname** | _your nickname_ |
-| **Student ID** | _6xxxxxxxx_ |
+| **Name** | Jakkaphong Ruammahasap|
+| **Nickname** | Keng |
+| **Student ID** | 692115007 |
 | **Section** | 701 |
 
 ## How to run
@@ -18,8 +18,9 @@ Then open <http://localhost:3000> and <http://localhost:3000/api/me>.
 
 ## What I learned today
 
-_Write 2–3 sentences in your own words: what happens between typing a URL and seeing the page?_
+i see the page with client and other website like github git etc.
+i can see how SE master in our way.progress and milestones.
 
 ## AI-use statement
 
-_Did you use an AI tool in this lab? If yes, which one and for what (e.g., "ChatGPT to explain a Git error message"). If no, write "No AI tools used."_
+i use chatgpt for explain line code that i dont understand and try to remember steps.
