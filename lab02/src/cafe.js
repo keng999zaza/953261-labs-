@@ -117,3 +117,13 @@ export function namesByCategory(menu) {
     dessert: []
   });
 }
+
+// Task 11 — filter + map
+// Return names of drinks cheaper than maxPrice.
+export function cheapDrinks(menu, maxPrice) {
+  return menu
+    .filter(item =>
+      item.category === "drink" && item.price < maxPrice
+    )
+    .map(item => item.name);
+}
