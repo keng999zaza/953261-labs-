@@ -18,7 +18,7 @@ npm start        # Part D — the daily report
 
 ## My own function (Part D)
 
-My function is .map  applies a given function to every element of an iterable (list, array, etc.) and returns a new collection containing the results, and change every item in array.end with return.
+My cheapDrinks(); function uses the menu array. It uses filter() to find drinks that cost less than a given price, then map() to return only their names. It does not change the original menu array."
 
 ## What I learned today
 
